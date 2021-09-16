@@ -1,4 +1,4 @@
-# sample-jee7
+# sample-jee7-kt
 
 <https://moelholm.com/blog/2017/03/16/java-ee-hello-world-kotlin>
 
