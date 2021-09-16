@@ -8,4 +8,11 @@
 
 <http://localhost:8080/sample-jee7/api/hello>
 
+<https://github.com/tiagolpadua/sample-jee7-kt.git>
+
 docker-compose up --rm
+
+```bash
+docker-compose build --force-rm; docker-compose up # windows|powershell
+docker-compose build --force-rm && docker-compose up # linux
+```
